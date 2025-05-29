@@ -77,16 +77,11 @@ IBM HR Analytics Employee Attrition & Performance
 
 ---
 
-## ✅ Next Steps
-
-- Add predictive modeling in future iterations (e.g., regression, ML)
-- Deploy via Power BI Service or embed in a SharePoint site
 
 ---
 
 ## 📬 Contact
 
 **Nikita Paul**  
-📧 [nikitapaul444@gmail.com](mailto:nikitapaul444@gmail.com)  
-📍 Saint Louis, MO  
-🔗 [LinkedIn](#) | [GitHub](#) *(insert links when available)*
+📧 [nikitapaul444@gmail.com]
+
