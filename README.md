@@ -76,6 +76,7 @@ IBM HR Analytics Employee Attrition & Performance
 - `HR_Attrition_Dashboard.pbix` – Power BI dashboard (ready to explore)
 
 ---
+![image](https://github.com/user-attachments/assets/1e194ff2-15ef-4033-827d-99a7a7b2b00c)
 
 
 ---
